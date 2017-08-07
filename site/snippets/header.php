@@ -17,7 +17,9 @@
     <div class="grid">
 
       <div class="branding column">
-        <a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>
+        <a href="<?= url() ?>" rel="home" title="Finland in Bristol">
+          <?= (new Asset("assets/images/logo.svg"))->content() ?>
+        </a>
       </div>
 
       <?php snippet('menu') ?>

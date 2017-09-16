@@ -810,13 +810,16 @@ body {
 
 @media all and (min-width: 62.5em) {
   .team-item {
-    width: 25%;
+    width: 33.3%;
   }
 }
 
 .team-portrait img {
   /* Eliminate bottom margin */
   display: block;
+  height: 10rem;
+  width: auto;
+  margin: auto;
 }
 
 .team-name {

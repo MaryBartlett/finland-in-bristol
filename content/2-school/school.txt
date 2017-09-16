@@ -4,11 +4,47 @@ Title: School
 
 Text:
 
-#### Address
+As well as socials, Finland in Bristol organises Finnish lessons for adults and children of all levels. The school runs every second Saturday for two hours from 10am to 12pm. We have two groups for children (tiny ones and school age) and two groups for adults.
+
+### Beginner's class - Adults - Teacher: Karoliina
+
+At beginners in September we start from the very basics; introductions, numbers, telling time, objects, etc. Around Christmas we will move onto everyday situations, like how to order in a restaurant, ask directions and small talk at the afternoon tea (or coffee in Finland’s case). On the last weeks of spring we have a look at forming sentences on your own and how to use all the words you have learned throughout the year. Every lesson will consist of 3 parts: checking homework, going through the new subject and either reading/listening/speaking exercise. Sometimes we will spend more than one Saturday with the new subject, to make sure that all of the students are comfortable with it. Our group works collectively, everyone helps everyone and we share our own experiences of the culture and language.
+
+### Intermediate/Advanced class - Adults - Teacher: Kirsti
+
+Kirsti’s text.
+
+### 3-5 year old children - Teacher: Maria H.
+
+My group is for children from 3 to 5 years old of different abilities in Finnish. In my class we learn about Finnish culture, activate children to use Finnish and learn new vocabulary through play, singing, reading, crafts and drama. Classes are fun, relaxed and full of activities. It’s a great way to meet other children with similar backgrounds and learn Finnish language and culture. All classes have a different theme and in every class we sing and play familiar songs and games. If the weather is nice we play outdoors and do a couple of forest school days during the year too. I look forward to hearing from you and meeting your children in the class!
+
+### 5 - 12 year old children - Teacher: Maria B.
+
+This group is for children who can read and write and who already go to school.
+
+My approach to teaching is student centered learning (oppilaslähtöinen oppiminen) so on the first two lessons in September we will discuss the children’s interests and do some simple exercises to gain better understanding of their individual capabilities. The study plan for the rest of the year will therefore be specified after first two meetings. The aim of the meetings is to give children an opportunity to interact and speak Finnish with other multilingual children, to improve and maintain their existing language skills - and just to have fun whilst playing and doing exercises!  Weather permitting we can arrange picnics or go and play in a park. We will always first meet at the school and parents will be informed in advance if the lesson will be outdoors. Study materials will be provided by the teacher, but occasionally children might be asked to bring for example their own favourite Finnish book to the school. If parents agree we can also consider using children’s own tablets for learning.
+
+
+### Coffee break
+
+In all groups there will be a recess of 15-20 min at 11am to give you a chance to chat with other students, get a cup of coffee or to buy some Finnish produce we have for sale in our break out area. We know that Finnish is a difficult language, so believe us, you will be glad to have a break!
+
+
+
+### Address
 Oasis Academy Brightstowe
 Penpole Lane
 Shirehampton
 Bristol
 BS11 0EB
 
+----
 
+Location:
+
+address: >
+  Oasis Academy Brightstowe Penpole Lane
+  Shirehampton Bristol BS11 0EB
+lat: "51.490489"
+lng: "-2.6704608999999664"
+zoom: "14"

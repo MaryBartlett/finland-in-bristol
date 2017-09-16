@@ -11,7 +11,6 @@
     </header>
 
     <div class="wrap wide">
-      <h2>Get in Touch</h2>
 
       <ul class="contact-options">
         <?php foreach($page->contactoptions()->toStructure() as $item): ?>
@@ -31,11 +30,6 @@
         <?php endforeach ?>
       </ul>
     </div>
-
-    <div class="contact-twitter text wrap cf">
-      <?= $page->text()->kirbytext() ?>
-    </div>
-
   </main>
 
 <?php snippet('footer') ?>

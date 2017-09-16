@@ -17,8 +17,8 @@
     <div class="grid">
 
       <div class="branding column">
-        <a href="<?= url() ?>" rel="home" title="Finland in Bristol">
-          <?= (new Asset("assets/images/logo.svg"))->content() ?>
+        <a href="<?= url() ?>" rel="home" title="Finland in Bristol" class="logo">
+          <?= (new Asset("assets/images/logo.jpg"))?>
         </a>
       </div>
 

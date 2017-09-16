@@ -877,7 +877,7 @@ body {
 
 @media (min-width: 62.5em) {
   .contact-item {
-    width: 25%;
+    width: 33.3%;
   }
 }
 
@@ -927,4 +927,11 @@ body {
   .contact-twitter p:not(:first-of-type) {
     width: 33.33%;
   }
+}
+
+
+/* FiB */
+
+.logo img {
+  width: 25%;
 }

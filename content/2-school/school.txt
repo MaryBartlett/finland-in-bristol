@@ -38,13 +38,7 @@ Shirehampton
 Bristol
 BS11 0EB
 
+
+(styledmap: Oasis Academy Brightstowe, location: 51.490529, -2.670407)
+
 ----
-
-Location:
-
-address: >
-  Oasis Academy Brightstowe Penpole Lane
-  Shirehampton Bristol BS11 0EB
-lat: "51.490489"
-lng: "-2.6704608999999664"
-zoom: "14"

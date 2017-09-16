@@ -38,7 +38,8 @@
               </div>
             </div>
 
-            <?php if($member->email() != ''): ?>  <div class="team-contact text">
+            <?php if($member->email() != ''): ?>
+              <div class="team-contact text">
                 <i>Email:</i><br />
                 <a href="mailto:<?= $member->email()->html() ?>"><?= $member->email()->html() ?></a><br />
               </div>

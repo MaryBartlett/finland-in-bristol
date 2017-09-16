@@ -1,0 +1,20 @@
+title: School
+
+pages: false
+
+files: false
+
+options:
+  template: false
+  status: false
+
+fields:
+  location:
+    label: Oasis Academy Brightstowe
+    type: map
+    center:
+      lat: 51.490484
+      lng: -2.670379
+      zoom: 9
+    help: >
+      Move the pin wherever you'd like, or search for a location!
